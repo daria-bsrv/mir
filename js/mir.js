@@ -14,4 +14,4 @@ console,log(firstlink);
 firstlink.setAttribute("href", "https://midis.ru/"); //установить атрибут или изменить значение существующего
 firstlink.setAttribute("target", "_blank");
 
-//задание 4 йоу
+//задание 4 йо
